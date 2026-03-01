@@ -69,12 +69,6 @@ namespace BannerKings1259
             LogMessage("Starting SubModule Load");
             base.OnSubModuleLoad();
             BannerKings1259.harmony.PatchAll();
-
-            //Type classType = AccessTools.TypeByName("ROTEnlistmentBehavior");
-            //BannerKings1259.harmony.Patch(AccessToolsExtensions.Method(classType, "OnSessionLaunched", null, null), null, null, null, new HarmonyMethod(typeof(OnSessionLaunchedPatch).GetMethod("Finalizer")));
-            //MethodBase methodBase = AccessTools.Method(typeof(HeroCreator), "CreateHeroAtOccupation", null, null);
-            //BannerKings1259.harmony.Unpatch(methodBase, HarmonyPatchType.Prefix, "*");
-            //BannerKings1259.harmony.Patch(methodBase, new HarmonyMethod(typeof(CreateHeroAtOccupationPatch).GetMethod("Prefix")), null, null, null);
         }
 
         public static readonly Harmony harmony = new Harmony("BannerKings1259");
