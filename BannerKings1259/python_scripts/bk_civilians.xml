@@ -1,0 +1,256 @@
+<?xml version="1.0" ?>
+<NPCCharacters>
+  <NPCCharacter id="bannerkings_preacher_catholicism_1" name="{FIRSTNAME}" voice="softspoken" age="55" is_template="true" is_female="false" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Preacher">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia"/>
+    </face>
+    <Traits>
+      <Trait id="WandererEquipment" value="1"/>
+      <Trait id="PeltastFightingSkills" value="2"/>
+      <Trait id="ScoutSkills" value="1"/>
+      <Trait id="Surgeon" value="3"/>
+      <Trait id="Calculating" value="1"/>
+      <Trait id="Mercy" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.monk_robe"/>
+        <equipment slot="Leg" id="Item.folded_town_boots"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.monk_robe"/>
+        <equipment slot="Leg" id="Item.folded_town_boots"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="bannerkings_preacher_armenian_catholicism_1" name="{FIRSTNAME}" voice="softspoken" age="55" is_template="true" is_female="false" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Preacher">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia"/>
+    </face>
+    <Traits>
+      <Trait id="WandererEquipment" value="1"/>
+      <Trait id="PeltastFightingSkills" value="2"/>
+      <Trait id="ScoutSkills" value="1"/>
+      <Trait id="Surgeon" value="3"/>
+      <Trait id="Calculating" value="1"/>
+      <Trait id="Mercy" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.monk_robe"/>
+        <equipment slot="Leg" id="Item.folded_town_boots"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.monk_robe"/>
+        <equipment slot="Leg" id="Item.folded_town_boots"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="bannerkings_preacher_eastern_orthodoxy_1" name="{FIRSTNAME}" voice="softspoken" age="55" is_template="true" is_female="false" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Preacher">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia"/>
+    </face>
+    <Traits>
+      <Trait id="WandererEquipment" value="1"/>
+      <Trait id="PeltastFightingSkills" value="2"/>
+      <Trait id="ScoutSkills" value="1"/>
+      <Trait id="Surgeon" value="3"/>
+      <Trait id="Calculating" value="1"/>
+      <Trait id="Mercy" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.monk_robe"/>
+        <equipment slot="Leg" id="Item.folded_town_boots"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.monk_robe"/>
+        <equipment slot="Leg" id="Item.folded_town_boots"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="bannerkings_preacher_krstjani_1" name="{FIRSTNAME}" voice="softspoken" age="55" is_template="true" is_female="false" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Preacher">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia"/>
+    </face>
+    <Traits>
+      <Trait id="WandererEquipment" value="1"/>
+      <Trait id="PeltastFightingSkills" value="2"/>
+      <Trait id="ScoutSkills" value="1"/>
+      <Trait id="Surgeon" value="3"/>
+      <Trait id="Calculating" value="1"/>
+      <Trait id="Mercy" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.monk_robe"/>
+        <equipment slot="Leg" id="Item.folded_town_boots"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.monk_robe"/>
+        <equipment slot="Leg" id="Item.folded_town_boots"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="bannerkings_preacher_sunnism_1" name="{FIRSTNAME}" voice="softspoken" age="55" is_template="true" is_female="false" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Preacher">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia"/>
+    </face>
+    <Traits>
+      <Trait id="WandererEquipment" value="1"/>
+      <Trait id="PeltastFightingSkills" value="2"/>
+      <Trait id="ScoutSkills" value="1"/>
+      <Trait id="Surgeon" value="3"/>
+      <Trait id="Calculating" value="1"/>
+      <Trait id="Mercy" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.monk_robe"/>
+        <equipment slot="Leg" id="Item.folded_town_boots"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.monk_robe"/>
+        <equipment slot="Leg" id="Item.folded_town_boots"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="bannerkings_preacher_shiism_1" name="{FIRSTNAME}" voice="softspoken" age="55" is_template="true" is_female="false" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Preacher">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia"/>
+    </face>
+    <Traits>
+      <Trait id="WandererEquipment" value="1"/>
+      <Trait id="PeltastFightingSkills" value="2"/>
+      <Trait id="ScoutSkills" value="1"/>
+      <Trait id="Surgeon" value="3"/>
+      <Trait id="Calculating" value="1"/>
+      <Trait id="Mercy" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.monk_robe"/>
+        <equipment slot="Leg" id="Item.folded_town_boots"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.monk_robe"/>
+        <equipment slot="Leg" id="Item.folded_town_boots"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="bannerkings_preacher_judaism_1" name="{FIRSTNAME}" voice="softspoken" age="55" is_template="true" is_female="false" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Preacher">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia"/>
+    </face>
+    <Traits>
+      <Trait id="WandererEquipment" value="1"/>
+      <Trait id="PeltastFightingSkills" value="2"/>
+      <Trait id="ScoutSkills" value="1"/>
+      <Trait id="Surgeon" value="3"/>
+      <Trait id="Calculating" value="1"/>
+      <Trait id="Mercy" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.monk_robe"/>
+        <equipment slot="Leg" id="Item.folded_town_boots"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.monk_robe"/>
+        <equipment slot="Leg" id="Item.folded_town_boots"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="bannerkings_preacher_tengrism_1" name="{FIRSTNAME}" voice="softspoken" age="55" is_template="true" is_female="false" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Preacher">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia"/>
+    </face>
+    <Traits>
+      <Trait id="WandererEquipment" value="1"/>
+      <Trait id="PeltastFightingSkills" value="2"/>
+      <Trait id="ScoutSkills" value="1"/>
+      <Trait id="Surgeon" value="3"/>
+      <Trait id="Calculating" value="1"/>
+      <Trait id="Mercy" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.monk_robe"/>
+        <equipment slot="Leg" id="Item.folded_town_boots"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.monk_robe"/>
+        <equipment slot="Leg" id="Item.folded_town_boots"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="bannerkings_preacher_buddhism_1" name="{FIRSTNAME}" voice="softspoken" age="55" is_template="true" is_female="false" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Preacher">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia"/>
+    </face>
+    <Traits>
+      <Trait id="WandererEquipment" value="1"/>
+      <Trait id="PeltastFightingSkills" value="2"/>
+      <Trait id="ScoutSkills" value="1"/>
+      <Trait id="Surgeon" value="3"/>
+      <Trait id="Calculating" value="1"/>
+      <Trait id="Mercy" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.monk_robe"/>
+        <equipment slot="Leg" id="Item.folded_town_boots"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.monk_robe"/>
+        <equipment slot="Leg" id="Item.folded_town_boots"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="bannerkings_preacher_romuva_1" name="{FIRSTNAME}" voice="softspoken" age="55" is_template="true" is_female="false" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Preacher">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia"/>
+    </face>
+    <Traits>
+      <Trait id="WandererEquipment" value="1"/>
+      <Trait id="PeltastFightingSkills" value="2"/>
+      <Trait id="ScoutSkills" value="1"/>
+      <Trait id="Surgeon" value="3"/>
+      <Trait id="Calculating" value="1"/>
+      <Trait id="Mercy" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.monk_robe"/>
+        <equipment slot="Leg" id="Item.folded_town_boots"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.monk_robe"/>
+        <equipment slot="Leg" id="Item.folded_town_boots"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="bannerkings_preacher_saami_1" name="{FIRSTNAME}" voice="softspoken" age="55" is_template="true" is_female="false" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Preacher">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia"/>
+    </face>
+    <Traits>
+      <Trait id="WandererEquipment" value="1"/>
+      <Trait id="PeltastFightingSkills" value="2"/>
+      <Trait id="ScoutSkills" value="1"/>
+      <Trait id="Surgeon" value="3"/>
+      <Trait id="Calculating" value="1"/>
+      <Trait id="Mercy" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.monk_robe"/>
+        <equipment slot="Leg" id="Item.folded_town_boots"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.monk_robe"/>
+        <equipment slot="Leg" id="Item.folded_town_boots"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+</NPCCharacters>

@@ -1,0 +1,1133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <titles autoGenerate="true">
+        <kingdom faction="almohad_caliphate" fullName="{=!}Almohad Caliphate" government="Imperial"
+            succession="Hereditary" inheritance="Primogeniture" genderLaw="Agnatic"
+            deJure="Hero.lord_almohad_umar">
+            <duchy name="{=duchy_clan_almohad_1}clan_almohad_1" deJure="lord_almohad_umar">
+                <county settlement="town_marrakech" deJure="lord_almohad_umar">
+                    <barony settlement="castle_beni-mellal" deJure="lord_almohad_al_wathiq" />
+                    <barony settlement="castle_debdou" deJure="lord_almohad_ibn_an_nasir_3" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="aragon" fullName="{=!}Crown of Aragon" government="Feudal"
+            succession="FeudalElective" inheritance="Primogeniture" genderLaw="Agnatic"
+            deJure="Hero.lord_aragon_1_1">
+            <duchy name="{=duchy_clan_aragon_4}clan_aragon_4" deJure="lord_aragon_4_2">
+                <county settlement="town_valencia" deJure="lord_aragon_4_2">
+                    <barony settlement="castle_chinchilla" deJure="lord_aragon_4_2" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_aragon_1}clan_aragon_1" deJure="lord_aragon_1_1">
+                <county settlement="town_barcelona" deJure="lord_aragon_1_1">
+                    <barony settlement="castle_castellvell" deJure="lord_aragon_1_1" />
+                    <barony settlement="castle_begur" deJure="lord_aragon_3_1" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_aragon_2}clan_aragon_2" deJure="lord_aragon_2_1_1">
+                <county settlement="town_zaragoza" deJure="lord_aragon_2_1_1" />
+            </duchy>
+        </kingdom>
+        <kingdom faction="armenia" fullName="{=!}Kingdom of Cilicia" government="Feudal"
+            succession="Hereditary" inheritance="Primogeniture" genderLaw="Cognatic"
+            deJure="Hero.lord_armenia_1z2g">
+            <duchy name="{=duchy_clan_armenia_1}clan_armenia_1" deJure="lord_armenia_1z2g">
+                <county settlement="town_tarsus" deJure="lord_armenia_1z2g">
+                    <barony settlement="castle_silifke" deJure="lord_armenia_2a" />
+                    <barony settlement="castle_gorigos" deJure="lord_armenia_1z2g" />
+                    <barony settlement="castle_sis" deJure="lord_armenia_2a" />
+                    <barony settlement="castle_lampron" deJure="lord_armenia_1z2g" />
+                    <barony settlement="castle_sarvandirkar" deJure="lord_armenia_3a" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="lithuania" fullName="{=!}Kingdom of Lithuania" government="Tribal"
+            succession="TribalElective" inheritance="Seniority" genderLaw="Agnatic"
+            deJure="Hero.lord_baltic_1a">
+            <duchy name="{=duchy_clan_baltic_1}clan_baltic_1" deJure="lord_baltic_1a">
+                <county settlement="town_raseiniai" deJure="lord_baltic_1a">
+                    <barony settlement="castle_klaipeda" deJure="lord_baltic_1a" />
+                    <barony settlement="castle_upyte" deJure="lord_baltic_1a" />
+                    <barony settlement="castle_dubysa" deJure="lord_baltic_1a" />
+                    <barony settlement="castle_dubene" deJure="lord_baltic_1a" />
+                    <barony settlement="castle_jelgava" deJure="lord_baltic_4a" />
+                    <barony settlement="castle_grobin" deJure="lord_baltic_4a" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_baltic_2}clan_baltic_2" deJure="lord_baltic_2a">
+                <county settlement="town_navahradak" deJure="lord_baltic_2a">
+                    <barony settlement="castle_vaukavysk" deJure="lord_baltic_2a" />
+                    <barony settlement="castle_hrodna" deJure="lord_baltic_3a" />
+                </county>
+                <county settlement="town_rajgrod" deJure="lord_baltic_2a">
+                    <barony settlement="castle_kirsnava" deJure="lord_baltic_3a" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_baltic_3}clan_baltic_3" deJure="lord_baltic_3a">
+                <county settlement="town_kernave" deJure="lord_baltic_3a">
+                    <barony settlement="castle_kaunas" deJure="lord_baltic_1a" />
+                </county>
+                <county settlement="town_valmiera" deJure="lord_baltic_3a" />
+            </duchy>
+            <duchy name="{=duchy_clan_baltic_4}clan_baltic_4" deJure="lord_baltic_4a">
+                <county settlement="town_jersika" deJure="lord_baltic_4a">
+                    <barony settlement="castle_utena" deJure="lord_baltic_2a" />
+                    <barony settlement="castle_aluksne" deJure="lord_baltic_4a" />
+                    <barony settlement="castle_vecumnieki" deJure="lord_baltic_4a" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="bohemia" fullName="{=!}Kingdom of Bohemia" government="Feudal"
+            succession="FeudalElective" inheritance="Primogeniture" genderLaw="Agnatic"
+            deJure="Hero.lord_bohemia_1a">
+            <duchy name="{=duchy_clan_bohemia_2}clan_bohemia_2" deJure="lord_bohemia_2a">
+                <county settlement="town_brno" deJure="lord_bohemia_2a">
+                    <barony settlement="castle_frydlant" deJure="lord_bohemia_4a" />
+                    <barony settlement="castle_znojmo" deJure="lord_bohemia_6a" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_bohemia_1}clan_bohemia_1" deJure="lord_bohemia_1a">
+                <county settlement="town_prague" deJure="lord_bohemia_1a">
+                    <barony settlement="castle_krivoklat" deJure="lord_bohemia_7a" />
+                </county>
+                <county settlement="town_pilsen" deJure="lord_bohemia_1a">
+                    <barony settlement="castle_budejovice" deJure="lord_bohemia_5a" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_bohemia_3}clan_bohemia_3" deJure="lord_bohemia_3a">
+                <county settlement="town_ostrau" deJure="lord_bohemia_3a" />
+            </duchy>
+        </kingdom>
+        <kingdom faction="bosnia" fullName="{=!}Banate of Bosnia" government="Feudal"
+            succession="FeudalElective" inheritance="Seniority" genderLaw="Agnatic"
+            deJure="Hero.lord_bosnia_1a">
+            <duchy name="{=duchy_clan_bosnia_1}clan_bosnia_1" deJure="lord_bosnia_1a">
+                <county settlement="town_zagreb" deJure="lord_bosnia_1a">
+                    <barony settlement="castle_kamen" deJure="lord_bosnia_3a" />
+                    <barony settlement="castle_gradina" deJure="lord_bosnia_2a" />
+                    <barony settlement="castle_banjaluka" deJure="lord_bosnia_2a" />
+                    <barony settlement="castle_borac" deJure="lord_bosnia_3a" />
+                    <barony settlement="castle_ljublana" deJure="lord_bosnia_4a" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="brittany" fullName="{=!}Duchy of Brittany" government="Feudal"
+            succession="Hereditary" inheritance="Primogeniture" genderLaw="Agnatic"
+            deJure="Hero.lord_brittany_1a">
+            <duchy name="{=duchy_clan_brittany_1}clan_brittany_1" deJure="lord_brittany_1a">
+                <county settlement="town_rennes" deJure="lord_brittany_1a">
+                    <barony settlement="castle_quimper" deJure="lord_brittany_1a" />
+                    <barony settlement="castle_josselin" deJure="lord_brittany_1a" />
+                    <barony settlement="castle_pierre_ii" deJure="lord_brittany_2a" />
+                    <barony settlement="castle_vitre" deJure="lord_brittany_2a" />
+                    <barony settlement="castle_fougeres" deJure="lord_brittany_3a" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="bulgaria" fullName="{=!}Kingdom of Bulgaria" government="Imperial"
+            succession="Imperial" inheritance="Primogeniture" genderLaw="Agnatic"
+            deJure="Hero.lord_bulgaria_1a">
+            <duchy name="{=duchy_clan_bulgaria_1}clan_bulgaria_1" deJure="lord_bulgaria_1a">
+                <county settlement="town_sredets" deJure="lord_bulgaria_1a" />
+                <county settlement="town_balti" deJure="lord_bulgaria_1a" />
+                <county settlement="town_pitesti" deJure="lord_bulgaria_1a" />
+                <county settlement="town_mauricastro" deJure="lord_bulgaria_1a" />
+            </duchy>
+            <duchy name="{=duchy_clan_bulgaria_3}clan_bulgaria_3" deJure="lord_bulgaria_3a">
+                <county settlement="town_bacau" deJure="lord_bulgaria_3a" />
+                <county settlement="town_giurgiu" deJure="lord_bulgaria_3a" />
+            </duchy>
+            <duchy name="{=duchy_clan_bulgaria_2}clan_bulgaria_2" deJure="lord_bulgaria_2a">
+                <county settlement="town_kellia" deJure="lord_bulgaria_2a">
+                    <barony settlement="castle_varna" deJure="lord_bulgaria_2a" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="castile" fullName="{=!}Crown of Castile" government="Feudal"
+            succession="Hereditary" inheritance="Primogeniture" genderLaw="Agnatic"
+            deJure="Hero.lord_castile_1">
+            <duchy name="{=duchy_clan_castile_1}clan_castile_1" deJure="lord_castile_1">
+                <county settlement="town_toledo" deJure="lord_castile_1">
+                    <barony settlement="castle_gomara" deJure="lord_castile_1" />
+                    <barony settlement="castle_madrid" deJure="lord_castile_5" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_castile_2}clan_castile_2" deJure="lord_castile_2">
+                <county settlement="town_leon" deJure="lord_castile_2">
+                    <barony settlement="castle_tiedra" deJure="lord_castile_7" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_castile_3}clan_castile_3" deJure="lord_castile_3">
+                <county settlement="town_santiago" deJure="lord_castile_3" />
+            </duchy>
+            <duchy name="{=duchy_clan_castile_8}clan_castile_8" deJure="lord_castile_8">
+                <county settlement="town_badajoz" deJure="lord_castile_8">
+                    <barony settlement="castle_niebla" deJure="lord_castile_4" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="crusaderstates" fullName="{=!}Crusader States" government="Feudal"
+            succession="FeudalElective" inheritance="Primogeniture" genderLaw="Agnatic"
+            deJure="Hero.lord_crusaderstates_1_2">
+            <duchy name="{=duchy_cs_clan_crusaderstates_1}cs_clan_crusaderstates_1"
+                deJure="lord_crusaderstates_1_2">
+                <county settlement="town_jerusalem" deJure="lord_crusaderstates_1_2">
+                    <barony settlement="castle_arish" deJure="lord_crusaderstates_1_2" />
+                    <barony settlement="castle_kerak" deJure="lord_crusaderstates_4_1" />
+                    <barony settlement="castle_darom" deJure="lord_crusaderstates_3_1" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_crusaderstates_4}clan_crusaderstates_4"
+                deJure="lord_crusaderstates_4_1">
+                <county settlement="town_acre" deJure="lord_crusaderstates_4_1">
+                    <barony settlement="castle_caesarea" deJure="lord_crusaderstates_1_2" />
+                    <barony settlement="castle_calansue" deJure="lord_crusaderstates_4_1" />
+                </county>
+                <county settlement="town_tarabulus" deJure="lord_crusaderstates_4_1">
+                    <barony settlement="castle_beaufort" deJure="lord_crusaderstates_5_1" />
+                    <barony settlement="castle_tortosa" deJure="lord_crusaderstates_5_1" />
+                    <barony settlement="castle_krakdeschevalier" deJure="lord_crusaderstates_1_2" />
+                    <barony settlement="castle_larnaka" deJure="lord_crusaderstates_5_1" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_crusaderstates_3}clan_crusaderstates_3"
+                deJure="lord_crusaderstates_3_1">
+                <county settlement="town_antioch" deJure="lord_crusaderstates_3_1">
+                    <barony settlement="castle_saladin" deJure="lord_crusaderstates_3_1" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="denmark" fullName="{=!}Kingdom of Denmark" government="Feudal"
+            succession="BattanianElective" inheritance="Primogeniture" genderLaw="Agnatic"
+            deJure="Hero.lord_denmark_1_3">
+            <duchy name="{=duchy_clan_denmark_1}clan_denmark_1" deJure="lord_denmark_1_3">
+                <county settlement="town_ribe" deJure="lord_denmark_1_3" />
+                <county settlement="town_lund" deJure="lord_denmark_1_3">
+                    <barony settlement="castle_helsingborg" deJure="lord_denmark_4a" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_denmark_2}clan_denmark_2" deJure="lord_denmark_2a">
+                <county settlement="town_aalborg" deJure="lord_denmark_2a">
+                    <barony settlement="castle_viborg" deJure="lord_denmark_1_3" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_denmark_3}clan_denmark_3" deJure="lord_denmark_3a">
+                <county settlement="town_roskilde" deJure="lord_denmark_3a" />
+            </duchy>
+        </kingdom>
+        <kingdom faction="england" fullName="{=!}Kingdom of England" government="Feudal"
+            succession="Hereditary" inheritance="Primogeniture" genderLaw="Agnatic"
+            deJure="Hero.lord_england_1">
+            <duchy name="{=duchy_clan_england_1}clan_england_1" deJure="lord_england_1">
+                <county settlement="town_bordeaux" deJure="lord_england_1" />
+                <county settlement="town_london" deJure="lord_england_1">
+                    <barony settlement="castle_dover" deJure="lord_england_8" />
+                    <barony settlement="castle_norwich" deJure="lord_england_7" />
+                </county>
+                <county settlement="town_winchester" deJure="lord_england_1">
+                    <barony settlement="castle_exeter" deJure="lord_england_8" />
+                    <barony settlement="castle_hereford" deJure="lord_england_4" />
+                </county>
+                <county settlement="town_york" deJure="lord_england_1">
+                    <barony settlement="castle_bamburgh" deJure="lord_england_1" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_england_6}clan_england_6" deJure="lord_england_6">
+                <county settlement="town_nottingham" deJure="lord_england_6">
+                    <barony settlement="castle_chester" deJure="lord_england_2" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_england_2}clan_england_2" deJure="lord_england_2">
+                <county settlement="town_dublin" deJure="lord_england_2">
+                    <barony settlement="castle_sligo" deJure="lord_england_1" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_england_5}clan_england_5" deJure="lord_england_5">
+                <county settlement="town_waterford" deJure="lord_england_5" />
+            </duchy>
+        </kingdom>
+        <kingdom faction="vlandia" fullName="{=!}Kingdom of France" government="Feudal"
+            succession="Hereditary" inheritance="Primogeniture" genderLaw="Agnatic"
+            deJure="Hero.lord_4_1">
+            <duchy name="{=duchy_clan_vlandia_1}clan_vlandia_1" deJure="lord_4_1">
+                <county settlement="town_paris" deJure="lord_4_1">
+                    <barony settlement="castle_calais" deJure="lord_4_6" />
+                    <barony settlement="castle_rouen" deJure="lord_4_1" />
+                    <barony settlement="castle_stgeorge" deJure="lord_4_6" />
+                </county>
+                <county settlement="town_orleans" deJure="lord_4_1" />
+                <county settlement="town_bourges" deJure="lord_4_1" />
+                <county settlement="town_reims" deJure="lord_4_1">
+                    <barony settlement="castle_hetsteen" deJure="lord_4_6" />
+                    <barony settlement="castle_kortrijk" deJure="lord_4_6" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_vlandia_11}clan_vlandia_11" deJure="lord_V11_l">
+                <county settlement="town_limoges" deJure="lord_V11_l">
+                    <barony settlement="castle_ventadour" deJure="lord_4_16" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_vlandia_3}clan_vlandia_3" deJure="lord_4_6">
+                <county settlement="town_tours" deJure="lord_4_6">
+                    <barony settlement="castle_caen" deJure="lord_4_22" />
+                    <barony settlement="castle_talmont" deJure="lord_4_24" />
+                    <barony settlement="castle_falaise" deJure="lord_4_24" />
+                    <barony settlement="castle_stlo" deJure="lord_4_22" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_vlandia_6}clan_vlandia_6" deJure="lord_4_22">
+                <county settlement="town_auch" deJure="lord_4_22">
+                    <barony settlement="castle_javier" deJure="lord_4_3" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_vlandia_7}clan_vlandia_7" deJure="lord_4_23">
+                <county settlement="town_toulouse" deJure="lord_4_23" />
+                <county settlement="town_lyon" deJure="lord_4_23" />
+            </duchy>
+            <duchy name="{=duchy_clan_vlandia_9}clan_vlandia_9" deJure="lord_4_27">
+                <county settlement="town_marseilles" deJure="lord_4_27">
+                    <barony settlement="castle_aumelas" deJure="lord_4_23" />
+                    <barony settlement="castle_avignon" deJure="lord_4_23" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="battania" fullName="{=!}Gaelic Kingdoms" government="Tribal"
+            succession="TribalElective" inheritance="Seniority" genderLaw="Agnatic"
+            deJure="Hero.lord_5_1">
+            <duchy name="{=duchy_clan_battania_2}clan_battania_2" deJure="lord_5_3">
+                <county settlement="town_galway" deJure="lord_5_3">
+                    <barony settlement="castle_kinbane" deJure="lord_5_1" />
+                    <barony settlement="castle_maine" deJure="lord_5_5" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="georgia" fullName="{=!}Kingdom of Georgia" government="Feudal"
+            succession="Hereditary" inheritance="Primogeniture" genderLaw="Cognatic"
+            deJure="Hero.lord_georgia_1a">
+            <duchy name="{=duchy_clan_georgia_1}clan_georgia_1" deJure="lord_georgia_1a">
+                <county settlement="town_yerevan" deJure="lord_georgia_1a">
+                    <barony settlement="castle_baghaberd" deJure="lord_georgia_1a" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_georgia_2}clan_georgia_2" deJure="lord_georgia_2a">
+                <county settlement="town_kutaisi" deJure="lord_georgia_2a" />
+                <county settlement="town_tbilisi" deJure="lord_georgia_2a">
+                    <barony settlement="castle_kurnoyat" deJure="lord_georgia_1a" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="holy" fullName="{=!}Holy Roman Empire" government="Feudal"
+            succession="BattanianElective" inheritance="Primogeniture" genderLaw="Agnatic"
+            deJure="Hero.lord_HRE_1">
+            <duchy name="{=duchy_clan_germanic_2}clan_germanic_2" deJure="lord_HRE_2">
+                <county settlement="town_metz" deJure="lord_HRE_2" />
+                <county settlement="town_frankfurt" deJure="lord_HRE_2">
+                    <barony settlement="castle_falkenberg" deJure="lord_HRE_6" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_germanic_8}clan_germanic_8" deJure="lord_HRE_8">
+                <county settlement="town_strasbourg" deJure="lord_HRE_8">
+                    <barony settlement="castle_liebeneck" deJure="lord_HRE_7" />
+                </county>
+                <county settlement="town_munster" deJure="lord_HRE_8" />
+                <county settlement="town_bremen" deJure="lord_HRE_8" />
+                <county settlement="town_zurich" deJure="lord_HRE_8">
+                    <barony settlement="castle_chillon" deJure="lord_HRE_8" />
+                    <barony settlement="castle_gutenberg" deJure="lord_HRE_8" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_germanic_1}clan_germanic_1" deJure="lord_HRE_1">
+                <county settlement="town_aachen" deJure="lord_HRE_1" />
+                <county settlement="town_erfurt" deJure="lord_HRE_1">
+                    <barony settlement="castle_stapelburg" deJure="lord_HRE_4" />
+                </county>
+                <county settlement="town_groningen" deJure="lord_HRE_1">
+                    <barony settlement="castle_utrecht" deJure="lord_HRE_2" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_germanic_9}clan_germanic_9" deJure="lord_HRE_9a">
+                <county settlement="town_cologne" deJure="lord_HRE_9a">
+                    <barony settlement="castle_stolzenfels" deJure="lord_HRE_3" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_germanic_5}clan_germanic_5" deJure="lord_HRE_5">
+                <county settlement="town_augsburg" deJure="lord_HRE_5" />
+                <county settlement="town_regensburg" deJure="lord_HRE_5">
+                    <barony settlement="castle_nuremberg" deJure="lord_HRE_5" />
+                    <barony settlement="castle_moosham" deJure="lord_HRE_4" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_germanic_7}clan_germanic_7" deJure="lord_HRE_7">
+                <county settlement="town_wurzburg" deJure="lord_HRE_7">
+                    <barony settlement="castle_rothenburg" deJure="lord_HRE_5" />
+                </county>
+                <county settlement="town_bautzen" deJure="lord_HRE_7" />
+            </duchy>
+            <duchy name="{=duchy_clan_germanic_3}clan_germanic_3" deJure="lord_HRE_3">
+                <county settlement="town_hamburg" deJure="lord_HRE_3">
+                    <barony settlement="castle_lubek" deJure="lord_HRE_3" />
+                </county>
+                <county settlement="town_brandenburg" deJure="lord_HRE_3">
+                    <barony settlement="castle_garz" deJure="lord_HRE_6" />
+                    <barony settlement="castle_zerbst" deJure="lord_HRE_3" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_germanic_6}clan_germanic_6" deJure="lord_HRE_6">
+                <county settlement="town_juterbog" deJure="lord_HRE_6" />
+            </duchy>
+            <duchy name="{=duchy_clan_germanic_4}clan_germanic_4" deJure="lord_HRE_4">
+                <county settlement="town_vienna" deJure="lord_HRE_4" />
+            </duchy>
+        </kingdom>
+        <kingdom faction="khuzait" fullName="{=!}Golden Horde" government="Tribal"
+            succession="TribalElective" inheritance="Seniority" genderLaw="Agnatic"
+            deJure="Hero.lord_6_1">
+            <duchy name="{=duchy_clan_khuzait_1}clan_khuzait_1" deJure="lord_6_1">
+                <county settlement="town_basra" deJure="lord_6_1" />
+                <county settlement="town_azak" deJure="lord_6_1" />
+                <county settlement="town_sharukan" deJure="lord_6_1">
+                    <barony settlement="castle_peresichen" deJure="lord_6_1" />
+                </county>
+                <county settlement="town_tmutarakan" deJure="lord_6_1">
+                    <barony settlement="castle_nicopisia" deJure="lord_6_1" />
+                </county>
+                <county settlement="town_saksyn" deJure="lord_6_1" />
+                <county settlement="town_oleshky" deJure="lord_6_1">
+                    <barony settlement="castle_khadjibey" deJure="lord_6_1" />
+                    <barony settlement="castle_leanum" deJure="lord_6_1" />
+                    <barony settlement="castle_protolcha" deJure="lord_6_1" />
+                    <barony settlement="castle_dohan" deJure="lord_6_1" />
+                </county>
+                <county settlement="town_khotomyshl" deJure="lord_6_1">
+                    <barony settlement="castle_biryn" deJure="lord_6_1" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_khuzait_5}clan_khuzait_5" deJure="lord_6_17">
+                <county settlement="town_isfahan" deJure="lord_6_17">
+                    <barony settlement="castle_dezful" deJure="lord_6_16" />
+                    <barony settlement="castle_rey" deJure="lord_6_16" />
+                </county>
+                <county settlement="town_shiraz" deJure="lord_6_17" />
+            </duchy>
+            <duchy name="{=duchy_clan_khuzait_6}clan_khuzait_6" deJure="lord_6_18">
+                <county settlement="town_darab" deJure="lord_6_18">
+                    <barony settlement="castle_kerman" deJure="lord_6_18" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_khuzait_7}clan_khuzait_7" deJure="lord_6_19">
+                <county settlement="town_yazd" deJure="lord_6_19" />
+                <county settlement="town_gorgan" deJure="lord_6_19" />
+            </duchy>
+            <duchy name="{=duchy_clan_khuzait_8}clan_khuzait_8" deJure="lord_6_20">
+                <county settlement="town_nishapur" deJure="lord_6_20">
+                    <barony settlement="castle_nisa" deJure="lord_K9_l" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="granada" fullName="{=!}Emirate of Granada" government="Imperial"
+            succession="Hereditary" inheritance="Primogeniture" genderLaw="Agnatic"
+            deJure="Hero.lord_granada_1_1">
+            <duchy name="{=duchy_clan_granada_1}clan_granada_1" deJure="lord_granada_1_1">
+                <county settlement="town_seville" deJure="lord_granada_1_1">
+                    <barony settlement="castle_guejar" deJure="lord_granada_1_1" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="nicaea" fullName="{=!}Roman Empire of Nicaea" government="Imperial"
+            succession="Imperial" inheritance="Primogeniture" genderLaw="Cognatic"
+            deJure="Hero.lord_nicaea_1_1">
+            <duchy name="{=duchy_clan_nicaea_3}clan_nicaea_3" deJure="lord_nicaea_3_1">
+                <county settlement="town_corinth" deJure="lord_nicaea_3_1">
+                    <barony settlement="castle_athens" deJure="lord_nicaea_3_1" />
+                    <barony settlement="castle_kyparissia" deJure="lord_nicaea_4_1" />
+                </county>
+                <county settlement="town_nafpaktos" deJure="lord_nicaea_3_1">
+                    <barony settlement="castle_larissa" deJure="lord_nicaea_4_1" />
+                    <barony settlement="castle_ioannina" deJure="lord_nicaea_4_1" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_nicaea_2}clan_nicaea_2" deJure="lord_nicaea_2_1">
+                <county settlement="town_dyrrhacium" deJure="lord_nicaea_2_1" />
+            </duchy>
+            <duchy name="{=duchy_clan_nicaea_1}clan_nicaea_1" deJure="lord_nicaea_1_1">
+                <county settlement="town_nicaea" deJure="lord_nicaea_1_1" />
+                <county settlement="town_smyrna" deJure="lord_nicaea_1_1">
+                    <barony settlement="castle_atikhisar" deJure="lord_nicaea_1_1" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="hafsid" fullName="{=!}Hafsid Kingdom" government="Imperial"
+            succession="Hereditary" inheritance="Primogeniture" genderLaw="Agnatic"
+            deJure="Hero.lord_hafsid_1_1">
+            <duchy name="{=duchy_clan_hafsid_1}clan_hafsid_1" deJure="lord_hafsid_1_1">
+                <county settlement="town_algers" deJure="lord_hafsid_1_1">
+                    <barony settlement="castle_chlef" deJure="lord_hafsid_1_1" />
+                </county>
+                <county settlement="town_tunis" deJure="lord_hafsid_1_1">
+                    <barony settlement="castle_beja_t" deJure="lord_hafsid_3_1" />
+                </county>
+                <county settlement="town_sfax" deJure="lord_hafsid_1_1" />
+            </duchy>
+            <duchy name="{=duchy_clan_hafsid_2}clan_hafsid_2" deJure="lord_hafsid_2_1">
+                <county settlement="town_bejaia" deJure="lord_hafsid_2_1" />
+                <county settlement="town_constantine" deJure="lord_hafsid_2_1">
+                    <barony settlement="castle_khenchela" deJure="lord_hafsid_4_1" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_hafsid_3}clan_hafsid_3" deJure="lord_hafsid_3_1">
+                <county settlement="town_biskra" deJure="lord_hafsid_3_1" />
+            </duchy>
+            <duchy name="{=duchy_clan_hafsid_4}clan_hafsid_4" deJure="lord_hafsid_4_1">
+                <county settlement="town_ouargla" deJure="lord_hafsid_4_1" />
+            </duchy>
+        </kingdom>
+        <kingdom faction="galicia" fullName="{=!}Principality of Galicia-Volhynia"
+            government="Feudal" succession="FeudalElective" inheritance="Seniority"
+            genderLaw="Agnatic" deJure="Hero.lord_galicia_1a">
+            <duchy name="{=duchy_clan_galicia_1}clan_galicia_1" deJure="lord_galicia_1a">
+                <county settlement="town_halych" deJure="lord_galicia_1a">
+                    <barony settlement="castle_zvenyhorod" deJure="lord_galicia_1a" />
+                    <barony settlement="castle_busk" deJure="lord_galicia_2a" />
+                </county>
+                <county settlement="town_shumsk" deJure="lord_galicia_1a">
+                    <barony settlement="castle_dorogobuzh" deJure="lord_galicia_2a" />
+                    <barony settlement="castle_terebovila" deJure="lord_galicia_1a" />
+                    <barony settlement="castle_medzhybizh" deJure="lord_galicia_1a" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_galicia_2}clan_galicia_2" deJure="lord_galicia_2a">
+                <county settlement="town_volodymyr" deJure="lord_galicia_2a">
+                    <barony settlement="castle_lutsk" deJure="lord_galicia_1a" />
+                </county>
+                <county settlement="town_brest" deJure="lord_galicia_2a">
+                    <barony settlement="castle_slonim" deJure="lord_galicia_2a" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="kiev" fullName="{=!}Principality of Kiev" government="Feudal"
+            succession="Hereditary" inheritance="Seniority" genderLaw="Agnatic"
+            deJure="Hero.lord_kiev_1a">
+            <duchy name="{=duchy_clan_kiev_2}clan_kiev_2" deJure="lord_kiev_2a">
+                <county settlement="town_korosten" deJure="lord_kiev_2a" />
+            </duchy>
+            <duchy name="{=duchy_clan_kiev_1}clan_kiev_1" deJure="lord_kiev_1a">
+                <county settlement="town_kyiv" deJure="lord_kiev_1a">
+                    <barony settlement="castle_kaniv" deJure="lord_kiev_1a" />
+                </county>
+                <county settlement="town_bila_tserkva" deJure="lord_kiev_1a">
+                    <barony settlement="castle_korsun" deJure="lord_kiev_2a" />
+                    <barony settlement="castle_bratslav" deJure="lord_kiev_1a" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="pereyaslavl" fullName="{=!}Principality of Pereyaslavl"
+            government="Feudal" succession="Hereditary" inheritance="Seniority" genderLaw="Agnatic"
+            deJure="Hero.lord_pereyaslavl_1a">
+            <duchy name="{=duchy_clan_pereyaslavl_1}clan_pereyaslavl_1" deJure="lord_pereyaslavl_1a">
+                <county settlement="town_pereiaslav" deJure="lord_pereyaslavl_1a" />
+            </duchy>
+            <duchy name="{=duchy_clan_pereyaslavl_2}clan_pereyaslavl_2" deJure="lord_pereyaslavl_2a">
+                <county settlement="town_rylsk" deJure="lord_pereyaslavl_2a">
+                    <barony settlement="castle_oster" deJure="lord_pereyaslavl_1a" />
+                    <barony settlement="castle_lubny" deJure="lord_pereyaslavl_1a" />
+                    <barony settlement="castle_putyvl" deJure="lord_pereyaslavl_1a" />
+                    <barony settlement="castle_ltava" deJure="lord_pereyaslavl_2a" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="hungary" fullName="{=!}Kingdom of Hungary" government="Feudal"
+            succession="Hereditary" inheritance="Primogeniture" genderLaw="Agnatic"
+            deJure="Hero.lord_hungary_1_1">
+            <duchy name="{=duchy_clan_hungary_2}clan_hungary_2" deJure="lord_hungary_2_1">
+                <county settlement="town_sopron" deJure="lord_hungary_2_1" />
+                <county settlement="town_gyor" deJure="lord_hungary_2_1">
+                    <barony settlement="castle_szigliget" deJure="lord_hungary_1_1" />
+                    <barony settlement="castle_pozsony" deJure="lord_hungary_3a" />
+                    <barony settlement="castle_trencin" deJure="lord_hungary_4a" />
+                </county>
+                <county settlement="town_gyulafehervar" deJure="lord_hungary_2_1">
+                    <barony settlement="castle_kraszna" deJure="lord_hungary_3a" />
+                    <barony settlement="castle_soimos" deJure="lord_hungary_1_1" />
+                    <barony settlement="castle_kronstadt" deJure="lord_hungary_5a" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_hungary_1}clan_hungary_1" deJure="lord_hungary_1_1">
+                <county settlement="town_fehervar" deJure="lord_hungary_1_1" />
+                <county settlement="town_estergom" deJure="lord_hungary_1_1">
+                    <barony settlement="castle_dregely" deJure="lord_hungary_3a" />
+                    <barony settlement="castle_banskabystrica" deJure="lord_hungary_5a" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_hungary_3}clan_hungary_3" deJure="lord_hungary_3a">
+                <county settlement="town_solnok" deJure="lord_hungary_3a" />
+            </duchy>
+            <duchy name="{=duchy_clan_hungary_4}clan_hungary_4" deJure="lord_hungary_4a">
+                <county settlement="town_kalocsa" deJure="lord_hungary_4a">
+                    <barony settlement="castle_jakabhegyi" deJure="lord_hungary_1_1" />
+                    <barony settlement="castle_szeged" deJure="lord_hungary_1_1" />
+                </county>
+                <county settlement="town_csanad" deJure="lord_hungary_4a" />
+            </duchy>
+            <duchy name="{=duchy_clan_hungary_5}clan_hungary_5" deJure="lord_hungary_5a">
+                <county settlement="town_szabolcs" deJure="lord_hungary_5a">
+                    <barony settlement="castle_borsova" deJure="lord_hungary_2_1" />
+                    <barony settlement="castle_spissky" deJure="lord_hungary_6_1_1" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="ilkhanate" fullName="{=!}Ilkhanate" government="Imperial"
+            succession="TribalElective" inheritance="Seniority" genderLaw="Agnatic"
+            deJure="Hero.lord_ilkhanate_1_1">
+            <duchy name="{=duchy_clan_ilkhanate_2}clan_ilkhanate_2" deJure="lord_ilkhanate_2_1">
+                <county settlement="town_diyarbakir" deJure="lord_ilkhanate_2_1">
+                    <barony settlement="castle_erzurum" deJure="lord_ilkhanate_5_1" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_ilkhanate_3}clan_ilkhanate_3" deJure="lord_ilkhanate_3_1">
+                <county settlement="town_mosul" deJure="lord_ilkhanate_3_1">
+                    <barony settlement="castle_talafar" deJure="lord_ilkhanate_2_1" />
+                    <barony settlement="castle_erbil" deJure="lord_ilkhanate_4_1" />
+                </county>
+                <county settlement="town_tabriz" deJure="lord_ilkhanate_3_1">
+                    <barony settlement="castle_ardabil" deJure="lord_ilkhanate_4_1" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_ilkhanate_1}clan_ilkhanate_1" deJure="lord_ilkhanate_1_1">
+                <county settlement="town_baghdad" deJure="lord_ilkhanate_1_1" />
+                <county settlement="town_kufa" deJure="lord_ilkhanate_1_1" />
+                <county settlement="town_van" deJure="lord_ilkhanate_1_1" />
+                <county settlement="town_qabala" deJure="lord_ilkhanate_1_1" />
+            </duchy>
+            <duchy name="{=duchy_clan_ilkhanate_5}clan_ilkhanate_5" deJure="lord_ilkhanate_5_1">
+                <county settlement="town_hamedan" deJure="lord_ilkhanate_5_1">
+                    <barony settlement="castle_kermanshah" deJure="lord_ilkhanate_4_1" />
+                </county>
+                <county settlement="town_erzincan" deJure="lord_ilkhanate_5_1" />
+            </duchy>
+        </kingdom>
+        <kingdom faction="empire_w" fullName="{=!}Republic of Genoa" government="Republic"
+            succession="AseraiElective" inheritance="Primogeniture" genderLaw="Agnatic"
+            deJure="Hero.lord_1_7">
+            <duchy name="{=duchy_clan_empire_west_1}clan_empire_west_1" deJure="lord_1_7">
+                <county settlement="town_genoa" deJure="lord_1_7">
+                    <barony settlement="castle_aleria" deJure="lord_1_11" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_empire_west_8}clan_empire_west_8" deJure="lord_1_71">
+                <county settlement="town_pantikapaion" deJure="lord_1_71" />
+            </duchy>
+        </kingdom>
+        <kingdom faction="milan" fullName="{=!}Lordship of Milan" government="Feudal"
+            succession="FeudalElective" inheritance="Primogeniture" genderLaw="Agnatic"
+            deJure="Hero.lord_milan_1a">
+            <duchy name="{=duchy_clan_milan_1}clan_milan_1" deJure="lord_milan_1a">
+                <county settlement="town_milan" deJure="lord_milan_1a" />
+            </duchy>
+        </kingdom>
+        <kingdom faction="papal" fullName="{=!}Papal States" government="Imperial"
+            succession="TheocraticElective" inheritance="Primogeniture" genderLaw="Agnatic"
+            deJure="Hero.lord_papal_1a">
+            <duchy name="{=duchy_clan_papal_1}clan_papal_1" deJure="lord_papal_1a">
+                <county settlement="town_V6" deJure="lord_papal_1a" />
+            </duchy>
+            <duchy name="{=duchy_clan_papal_2}clan_papal_2" deJure="lord_papal_2a">
+                <county settlement="town_ancona" deJure="lord_papal_2a" />
+            </duchy>
+        </kingdom>
+        <kingdom faction="pisa" fullName="{=!}Republic of Pisa" government="Republic"
+            succession="AseraiElective" inheritance="Primogeniture" genderLaw="Agnatic"
+            deJure="Hero.lord_pisa_1a">
+            <duchy name="{=duchy_clan_pisa_2}clan_pisa_2" deJure="lord_pisa_2a">
+                <county settlement="town_cagliari" deJure="lord_pisa_2a" />
+            </duchy>
+            <duchy name="{=duchy_clan_pisa_1}clan_pisa_1" deJure="lord_pisa_1a">
+                <county settlement="town_ES4" deJure="lord_pisa_1a" />
+            </duchy>
+        </kingdom>
+        <kingdom faction="empire_s" fullName="{=!}Kingdom of Sicily" government="Feudal"
+            succession="FeudalElective" inheritance="Primogeniture" genderLaw="Agnatic"
+            deJure="Hero.lord_1_14">
+            <duchy name="{=duchy_clan_empire_south_2}clan_empire_south_2" deJure="lord_1_15">
+                <county settlement="town_naples" deJure="lord_1_15" />
+            </duchy>
+            <duchy name="{=duchy_clan_empire_south_3}clan_empire_south_3" deJure="lord_1_17">
+                <county settlement="town_taranto" deJure="lord_1_17">
+                    <barony settlement="castle_venosa" deJure="lord_1_30" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_empire_south_9}clan_empire_south_9" deJure="lord_SE9_l">
+                <county settlement="town_syracusae" deJure="lord_SE9_l">
+                    <barony settlement="castle_reggio" deJure="lord_1_63" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_empire_south_1}clan_empire_south_1" deJure="lord_1_14">
+                <county settlement="town_palermo" deJure="lord_1_14">
+                    <barony settlement="castle_novum" deJure="lord_1_54" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="empire" fullName="{=!}Republic of Venice" government="Republic"
+            succession="AseraiElective" inheritance="Primogeniture" genderLaw="Agnatic"
+            deJure="Hero.lord_1_1">
+            <duchy name="{=duchy_clan_empire_north_1}clan_empire_north_1" deJure="lord_1_1">
+                <county settlement="town_venice" deJure="lord_1_1" />
+            </duchy>
+            <duchy name="{=duchy_clan_empire_north_2}clan_empire_north_2" deJure="lord_1_3">
+                <county settlement="town_pula" deJure="lord_1_3" />
+            </duchy>
+            <duchy name="{=duchy_clan_empire_north_3}clan_empire_north_3" deJure="lord_1_5">
+                <county settlement="town_ragusa" deJure="lord_1_5">
+                    <barony settlement="castle_gortyna" deJure="lord_1_51" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_empire_north_4}clan_empire_north_4" deJure="lord_1_20">
+                <county settlement="town_zadar" deJure="lord_1_20">
+                    <barony settlement="castle_terzsan" deJure="lord_1_51" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="verona" fullName="{=!}Lordship of Verona" government="Feudal"
+            succession="FeudalElective" inheritance="Primogeniture" genderLaw="Agnatic"
+            deJure="Hero.lord_verona_1a">
+            <duchy name="{=duchy_verona}verona" deJure="lord_verona_1a">
+                <county settlement="castle_EN1" deJure="lord_verona_1a" />
+            </duchy>
+        </kingdom>
+        <kingdom faction="latinempire" fullName="{=!}Latin Empire of Constantinople"
+            government="Feudal" succession="Hereditary" inheritance="Primogeniture"
+            genderLaw="Cognatic" deJure="Hero.lord_latin_1_1">
+            <duchy name="{=duchy_clan_latinempire_2}clan_latinempire_2" deJure="lord_latin_2_1">
+                <county settlement="town_adrianople" deJure="lord_latin_2_1" />
+            </duchy>
+            <duchy name="{=duchy_clan_latinempire_1}clan_latinempire_1" deJure="lord_latin_1_1">
+                <county settlement="town_constantinople" deJure="lord_latin_1_1" />
+                <county settlement="town_thessalonica" deJure="lord_latin_1_1" />
+            </duchy>
+            <duchy name="{=duchy_clan_latinempire_4}clan_latinempire_4" deJure="lord_latin_4_1">
+                <county settlement="town_amaseia" deJure="lord_latin_4_1">
+                    <barony settlement="castle_trebizond" deJure="lord_latin_3_1" />
+                    <barony settlement="castle_sinope" deJure="lord_latin_3_1" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="aserai" fullName="{=!}Marinid Sultanate" government="Imperial"
+            succession="Hereditary" inheritance="Primogeniture" genderLaw="Agnatic"
+            deJure="Hero.lord_3_1">
+            <duchy name="{=duchy_clan_aserai_1}clan_aserai_1" deJure="lord_3_1">
+                <county settlement="town_tanger" deJure="lord_3_1" />
+            </duchy>
+            <duchy name="{=duchy_clan_aserai_3}clan_aserai_3" deJure="lord_3_5_1">
+                <county settlement="town_fes" deJure="lord_3_5_1">
+                    <barony settlement="castle_amergou" deJure="marinid_abu_l_ula_02" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_aserai_4}clan_aserai_4" deJure="lord_3_16">
+                <county settlement="town_sale" deJure="lord_3_16" />
+            </duchy>
+        </kingdom>
+        <kingdom faction="murcia" fullName="{=!}Taifa of Murcia" government="Imperial"
+            succession="Hereditary" inheritance="Primogeniture" genderLaw="Agnatic"
+            deJure="Hero.lord_murcia_1a">
+            <duchy name="{=duchy_clan_murcia_1}clan_murcia_1" deJure="lord_murcia_1a">
+                <county settlement="town_murcia" deJure="lord_murcia_1a">
+                    <barony settlement="castle_lorca" deJure="lord_murcia_1a" />
+                    <barony settlement="castle_alicante" deJure="lord_murcia_1a" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="navarre" fullName="{=!}Kingdom of Navarre" government="Feudal"
+            succession="Hereditary" inheritance="Primogeniture" genderLaw="Agnatic"
+            deJure="Hero.lord_navarre_1">
+            <duchy name="{=duchy_clan_navarre_1}clan_navarre_1" deJure="lord_navarre_1">
+                <county settlement="town_pamplona" deJure="lord_navarre_1" />
+            </duchy>
+        </kingdom>
+        <kingdom faction="norway" fullName="{=!}Kingdom of Norway" government="Feudal"
+            succession="Hereditary" inheritance="Primogeniture" genderLaw="Agnatic"
+            deJure="Hero.lord_norway_1_1">
+            <duchy name="{=duchy_clan_norway_1}clan_norway_1" deJure="lord_norway_1_1">
+                <county settlement="town_bergen" deJure="lord_norway_1_1" />
+            </duchy>
+            <duchy name="{=duchy_clan_norway_2}clan_norway_2" deJure="lord_norway_2a">
+                <county settlement="town_stavanger" deJure="lord_norway_2a" />
+            </duchy>
+            <duchy name="{=duchy_clan_norway_3}clan_norway_3" deJure="lord_norway_3a">
+                <county settlement="town_arendal" deJure="lord_norway_3a" />
+            </duchy>
+            <duchy name="{=duchy_clan_norway_4}clan_norway_4" deJure="lord_norway_4_1">
+                <county settlement="town_oslo" deJure="lord_norway_4_1" />
+                <county settlement="town_lodose" deJure="lord_norway_4_1" />
+            </duchy>
+        </kingdom>
+        <kingdom faction="poland" fullName="{=!}Polish Principalities" government="Feudal"
+            succession="FeudalElective" inheritance="Primogeniture" genderLaw="Agnatic"
+            deJure="Hero.lord_poland_1">
+            <duchy name="{=duchy_clan_poland_1}clan_poland_1" deJure="lord_poland_1">
+                <county settlement="town_wroclaw" deJure="lord_poland_1">
+                    <barony settlement="castle_kalisz" deJure="lord_poland_1" />
+                    <barony settlement="castle_opole" deJure="lord_poland_1" />
+                    <barony settlement="castle_glagow" deJure="lord_poland_5" />
+                </county>
+                <county settlement="town_krakow" deJure="lord_poland_1">
+                    <barony settlement="castle_biecz" deJure="lord_poland_7" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_poland_2}clan_poland_2" deJure="lord_poland_2">
+                <county settlement="town_sandomierz" deJure="lord_poland_2">
+                    <barony settlement="castle_lublin" deJure="lord_poland_2" />
+                </county>
+                <county settlement="town_plock" deJure="lord_poland_2">
+                    <barony settlement="castle_zakroczym" deJure="lord_poland_2" />
+                    <barony settlement="castle_wlocwalek" deJure="lord_poland_3" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_poland_3}clan_poland_3" deJure="lord_poland_3">
+                <county settlement="town_szczecin" deJure="lord_poland_3">
+                    <barony settlement="castle_kolobrzeg" deJure="lord_poland_4" />
+                    <barony settlement="castle_santok" deJure="lord_poland_5" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_poland_4}clan_poland_4" deJure="lord_poland_4">
+                <county settlement="town_gdansk" deJure="lord_poland_4">
+                    <barony settlement="castle_slupsk" deJure="lord_poland_4" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_poland_5}clan_poland_5" deJure="lord_poland_5">
+                <county settlement="town_poznan" deJure="lord_poland_5" />
+            </duchy>
+            <duchy name="{=duchy_clan_poland_7}clan_poland_7" deJure="lord_poland_7">
+                <county settlement="town_peremyshl" deJure="lord_poland_7" />
+            </duchy>
+        </kingdom>
+        <kingdom faction="portugal" fullName="{=!}Kingdom of Portugal" government="Feudal"
+            succession="Hereditary" inheritance="Primogeniture" genderLaw="Agnatic"
+            deJure="Hero.lord_portugal_1_1">
+            <duchy name="{=duchy_clan_portugal_2}clan_portugal_2" deJure="lord_portugal_2_1_3">
+                <county settlement="town_oporto" deJure="lord_portugal_2_1_3" />
+            </duchy>
+            <duchy name="{=duchy_clan_portugal_3}clan_portugal_3" deJure="lord_portugal_3_1_1">
+                <county settlement="town_coimbra" deJure="lord_portugal_3_1_1">
+                    <barony settlement="castle_branco" deJure="lord_portugal_2_1_3" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_portugal_1}clan_portugal_1" deJure="lord_portugal_1_1">
+                <county settlement="town_lisbon" deJure="lord_portugal_1_1">
+                    <barony settlement="castle_beja" deJure="lord_portugal_4_1" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="rum" fullName="{=!}Sultanate of Rum" government="Imperial"
+            succession="Imperial" inheritance="Primogeniture" genderLaw="Agnatic"
+            deJure="Hero.lord_rum_1_a">
+            <duchy name="{=duchy_clan_rum_1}clan_rum_1" deJure="lord_rum_1_a">
+                <county settlement="town_ancyra" deJure="lord_rum_1_a">
+                    <barony settlement="castle_hevuk" deJure="lord_rum_3_a" />
+                </county>
+                <county settlement="town_iconium" deJure="lord_rum_1_a">
+                    <barony settlement="castle_kayseri" deJure="lord_rum_2_a" />
+                    <barony settlement="castle_pamukkale" deJure="lord_rum_2_a" />
+                    <barony settlement="castle_akroinοn" deJure="lord_rum_3_a" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="chernigov" fullName="{=!}Principality of Chernigov" government="Feudal"
+            succession="FeudalElective" inheritance="Primogeniture" genderLaw="Agnatic"
+            deJure="Hero.lord_chernigov_1a">
+            <duchy name="{=duchy_clan_chernigov_1}clan_chernigov_1" deJure="lord_chernigov_1a">
+                <county settlement="town_yelets" deJure="lord_chernigov_1a" />
+                <county settlement="town_homiel" deJure="lord_chernigov_1a" />
+                <county settlement="town_chernigov" deJure="lord_chernigov_1a" />
+            </duchy>
+            <duchy name="{=duchy_clan_chernigov_2}clan_chernigov_2" deJure="lord_chernigov_2a">
+                <county settlement="town_trubchevsk" deJure="lord_chernigov_2a">
+                    <barony settlement="castle_siverskyi" deJure="lord_chernigov_1a" />
+                    <barony settlement="castle_starodub" deJure="lord_chernigov_1a" />
+                </county>
+                <county settlement="town_novosil" deJure="lord_chernigov_2a">
+                    <barony settlement="castle_kursk" deJure="lord_chernigov_1a" />
+                    <barony settlement="castle_kromy" deJure="lord_chernigov_2a" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="murom" fullName="{=!}Principality of Murom-Pronsk" government="Feudal"
+            succession="Hereditary" inheritance="Seniority" genderLaw="Agnatic"
+            deJure="Hero.lord_murom_1a">
+            <duchy name="{=duchy_clan_murom_1}clan_murom_1" deJure="lord_murom_1a">
+                <county settlement="town_murom" deJure="lord_murom_1a">
+                    <barony settlement="castle_kadom" deJure="lord_murom_1a" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_murom_2}clan_murom_2" deJure="lord_murom_2a">
+                <county settlement="town_riazan" deJure="lord_murom_2a">
+                    <barony settlement="castle_rostislavl" deJure="lord_murom_2a" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_murom_3}clan_murom_3" deJure="lord_murom_3a">
+                <county settlement="town_pronsk" deJure="lord_murom_3a">
+                    <barony settlement="castle_tula" deJure="lord_murom_3a" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="rus" fullName="{=!}Republic of Novgorod" government="Feudal"
+            succession="Hereditary" inheritance="Seniority" genderLaw="Agnatic"
+            deJure="Hero.lord_rus_1a">
+            <duchy name="{=duchy_clan_rus_1}clan_rus_1" deJure="lord_rus_1a">
+                <county settlement="town_novgorod" deJure="lord_rus_1a" />
+            </duchy>
+            <duchy name="{=duchy_clan_rus_2}clan_rus_2" deJure="lord_rus_2a">
+                <county settlement="town_liubno" deJure="lord_rus_2a">
+                    <barony settlement="castle_torzok" deJure="lord_rus_1a" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_rus_3}clan_rus_3" deJure="lord_rus_3a">
+                <county settlement="town_pskov" deJure="lord_rus_3a">
+                    <barony settlement="castle_velikiye" deJure="lord_rus_2a" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_rus_4}clan_rus_4" deJure="lord_rus_4a">
+                <county settlement="town_kaibolovo" deJure="lord_rus_4a" />
+            </duchy>
+        </kingdom>
+        <kingdom faction="polotsk" fullName="{=!}Principality of Polotsk" government="Feudal"
+            succession="Hereditary" inheritance="Seniority" genderLaw="Agnatic"
+            deJure="Hero.lord_polotsk_1a">
+            <duchy name="{=duchy_clan_polotsk_1}clan_polotsk_1" deJure="lord_polotsk_1a">
+                <county settlement="town_viciebsk" deJure="lord_polotsk_1a" />
+            </duchy>
+            <duchy name="{=duchy_clan_polotsk_2}clan_polotsk_2" deJure="lord_polotsk_2a">
+                <county settlement="town_miensk" deJure="lord_polotsk_2a">
+                    <barony settlement="castle_zaslauje" deJure="lord_polotsk_3a" />
+                    <barony settlement="castle_kreva" deJure="lord_polotsk_4a" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_polotsk_3}clan_polotsk_3" deJure="lord_polotsk_3a">
+                <county settlement="town_polack" deJure="lord_polotsk_3a">
+                    <barony settlement="castle_lukoml" deJure="lord_polotsk_4a" />
+                    <barony settlement="castle_braslau" deJure="lord_polotsk_1a" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="smolensk" fullName="{=!}Principality of Smolensk" government="Feudal"
+            succession="Hereditary" inheritance="Seniority" genderLaw="Agnatic"
+            deJure="Hero.lord_smolensk_1a">
+            <duchy name="{=duchy_clan_smolensk_1}clan_smolensk_1" deJure="lord_smolensk_1a">
+                <county settlement="town_smolensk" deJure="lord_smolensk_1a">
+                    <barony settlement="castle_toropets" deJure="lord_smolensk_5a" />
+                    <barony settlement="castle_verzhavsk" deJure="lord_smolensk_2a" />
+                    <barony settlement="castle_dorogobuzh_smolenskii" deJure="lord_smolensk_4a" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_smolensk_2}clan_smolensk_2" deJure="lord_smolensk_2a">
+                <county settlement="town_mscislau" deJure="lord_smolensk_2a">
+                    <barony settlement="castle_roslavl" deJure="lord_smolensk_3a" />
+                    <barony settlement="castle_mahilou" deJure="lord_smolensk_4a" />
+                    <barony settlement="castle_orsa" deJure="lord_smolensk_1a" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="turov" fullName="{=!}Principality of Turov" government="Feudal"
+            succession="Hereditary" inheritance="Seniority" genderLaw="Agnatic"
+            deJure="Hero.lord_turov_1a">
+            <duchy name="{=duchy_clan_turov_1}clan_turov_1" deJure="lord_turov_1a">
+                <county settlement="town_turau" deJure="lord_turov_1a">
+                    <barony settlement="castle_pinsk" deJure="lord_turov_1a" />
+                    <barony settlement="castle_dubrovytsia" deJure="lord_turov_1a" />
+                    <barony settlement="castle_mazyr" deJure="lord_turov_2a" />
+                    <barony settlement="castle_sluck" deJure="lord_turov_2a" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="tver" fullName="{=!}Principality of Tver" government="Feudal"
+            succession="Hereditary" inheritance="Seniority" genderLaw="Agnatic"
+            deJure="Hero.lord_tver_1a">
+            <duchy name="{=duchy_clan_tver_1}clan_tver_1" deJure="lord_tver_1a">
+                <county settlement="town_tyver" deJure="lord_tver_1a" />
+            </duchy>
+            <duchy name="{=duchy_clan_tver_2}clan_tver_2" deJure="lord_tver_2a">
+                <county settlement="town_zubstov" deJure="lord_tver_2a">
+                    <barony settlement="castle_viazma" deJure="lord_tver_1a" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="vladimir" fullName="{=!}Principality of Vladimir-Suzdal"
+            government="Feudal" succession="Hereditary" inheritance="Seniority" genderLaw="Agnatic"
+            deJure="Hero.lord_vladimir_1a">
+            <duchy name="{=duchy_clan_vladimir_3}clan_vladimir_3" deJure="lord_vladimir_3a">
+                <county settlement="town_rostov" deJure="lord_vladimir_3a">
+                    <barony settlement="castle_ples" deJure="lord_vladimir_1a" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_vladimir_2}clan_vladimir_2" deJure="lord_vladimir_2a">
+                <county settlement="town_pereslavl" deJure="lord_vladimir_2a" />
+                <county settlement="town_zvenigorod" deJure="lord_vladimir_2a">
+                    <barony settlement="castle_tarusa" deJure="lord_vladimir_3a" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_vladimir_1}clan_vladimir_1" deJure="lord_vladimir_1a">
+                <county settlement="town_vladimir" deJure="lord_vladimir_1a">
+                    <barony settlement="castle_suzdal" deJure="lord_vladimir_1a" />
+                    <barony settlement="castle_nizhnii" deJure="lord_vladimir_3a" />
+                </county>
+                <county settlement="town_serensk" deJure="lord_vladimir_1a">
+                    <barony settlement="castle_kordno" deJure="lord_vladimir_3a" />
+                    <barony settlement="castle_bryansk" deJure="lord_vladimir_2a" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="scotland" fullName="{=!}Kingdom of Scotland" government="Feudal"
+            succession="Hereditary" inheritance="Seniority" genderLaw="Agnatic"
+            deJure="Hero.lord_scotland_1_2">
+            <duchy name="{=duchy_clan_scotland_1}clan_scotland_1" deJure="lord_scotland_1_2">
+                <county settlement="town_edinburgh" deJure="lord_scotland_1_2">
+                    <barony settlement="castle_kendal" deJure="lord_scotland_3_1_1" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_scotland_5}clan_scotland_5" deJure="lord_scotland_5_1">
+                <county settlement="town_stirling" deJure="lord_scotland_5_1">
+                    <barony settlement="castle_dunvegan" deJure="lord_scotland_4_1_1" />
+                </county>
+                <county settlement="town_perth" deJure="lord_scotland_5_1">
+                    <barony settlement="castle_dingwall" deJure="lord_scotland_2_1_1" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="serbia" fullName="{=!}Kingdom of Serbia" government="Feudal"
+            succession="Hereditary" inheritance="Primogeniture" genderLaw="Agnatic"
+            deJure="Hero.lord_serbia_1a">
+            <duchy name="{=duchy_clan_serbia_1}clan_serbia_1" deJure="lord_serbia_1a">
+                <county settlement="town_belgrade" deJure="lord_serbia_1a">
+                    <barony settlement="castle_nis" deJure="lord_serbia_2a" />
+                    <barony settlement="castle_ras" deJure="lord_serbia_3a" />
+                    <barony settlement="castle_shkoder" deJure="lord_serbia_4a" />
+                    <barony settlement="castle_kotor" deJure="lord_serbia_1a" />
+                    <barony settlement="castle_ram" deJure="lord_serbia_1a" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="sturgia" fullName="{=!}Kingdom of Sweden" government="Feudal"
+            succession="BattanianElective" inheritance="Seniority" genderLaw="Agnatic"
+            deJure="Hero.lord_2_7">
+            <duchy name="{=duchy_clan_sturgia_1}clan_sturgia_1" deJure="lord_2_7">
+                <county settlement="town_visby" deJure="lord_2_7" />
+            </duchy>
+            <duchy name="{=duchy_clan_sturgia_2}clan_sturgia_2" deJure="lord_2_3">
+                <county settlement="town_kalmar" deJure="lord_2_3" />
+            </duchy>
+            <duchy name="{=duchy_clan_sturgia_3}clan_sturgia_3" deJure="lord_2_5">
+                <county settlement="town_linkoping" deJure="lord_2_5">
+                    <barony settlement="castle_strangnas" deJure="lord_2_7" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_sturgia_4}clan_sturgia_4" deJure="lord_2_16">
+                <county settlement="town_sigtuna" deJure="lord_2_16" />
+            </duchy>
+            <duchy name="{=duchy_clan_sturgia_6}clan_sturgia_6" deJure="lord_2_18">
+                <county settlement="town_vaxjo" deJure="lord_2_18">
+                    <barony settlement="castle_skara" deJure="lord_2_15" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="teutonic" fullName="{=!}Teutonic Order" government="Imperial"
+            succession="TheocraticElective" inheritance="Seniority" genderLaw="Agnatic"
+            deJure="Hero.lord_teutonic_1a">
+            <duchy name="{=duchy_clan_teutonic_1}clan_teutonic_1" deJure="lord_teutonic_1a">
+                <county settlement="town_elbag" deJure="lord_teutonic_1a">
+                    <barony settlement="castle_nida" deJure="lord_teutonic_3a" />
+                    <barony settlement="castle_chelmno" deJure="lord_teutonic_2a" />
+                </county>
+                <county settlement="town_twangste" deJure="lord_teutonic_1a">
+                    <barony settlement="castle_rezel" deJure="lord_teutonic_2a" />
+                    <barony settlement="castle_ragaine" deJure="lord_teutonic_3a" />
+                </county>
+                <county settlement="town_iru" deJure="lord_teutonic_1a">
+                    <barony settlement="castle_varbola" deJure="lord_teutonic_2a" />
+                    <barony settlement="castle_rakvere" deJure="lord_teutonic_2a" />
+                    <barony settlement="castle_tartu" deJure="lord_teutonic_2a" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_teutonic_3}clan_teutonic_3" deJure="lord_teutonic_3a">
+                <county settlement="town_riga" deJure="lord_teutonic_3a" />
+                <county settlement="town_ventspils" deJure="lord_teutonic_3a">
+                    <barony settlement="castle_kaarma" deJure="lord_teutonic_2a" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="tlemcen_algeria" fullName="{=!}Tlemcen Sultanate of Algeria"
+            government="Imperial" succession="Hereditary" inheritance="Primogeniture"
+            genderLaw="Agnatic" deJure="Hero.lord_zyani_yaghmurasen">
+            <duchy name="{=duchy_clan_zyan_1}clan_zyan_1" deJure="lord_zyani_yaghmurasen">
+                <county settlement="town_oran" deJure="lord_zyani_yaghmurasen">
+                    <barony settlement="castle_melilla" deJure="lord_zyani_yaghmurasen" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="mamluk" fullName="{=!}Mamluk Sultanate" government="Imperial"
+            succession="AseraiElective" inheritance="Seniority" genderLaw="Agnatic"
+            deJure="Hero.lord_mamluk_1_1">
+            <duchy name="{=duchy_clan_mamluk_2}clan_mamluk_2" deJure="lord_mamluk_2_1">
+                <county settlement="town_tripoli" deJure="lord_mamluk_2_1" />
+                <county settlement="town_garama" deJure="lord_mamluk_2_1" />
+                <county settlement="town_surt" deJure="lord_mamluk_2_1" />
+                <county settlement="town_waddan" deJure="lord_mamluk_2_1">
+                    <barony settlement="castle_zillah" deJure="lord_mamluk_5_1" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_mamluk_3}clan_mamluk_3" deJure="lord_mamluk_3_1">
+                <county settlement="town_awjila" deJure="lord_mamluk_3_1">
+                    <barony settlement="castle_siwa" deJure="lord_mamluk_3_1" />
+                </county>
+                <county settlement="town_benghazi" deJure="lord_mamluk_3_1">
+                    <barony settlement="castle_antipyrgus" deJure="lord_mamluk_3_1" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_mamluk_4}clan_mamluk_4" deJure="lord_mamluk_4_1">
+                <county settlement="town_damascus" deJure="lord_mamluk_4_1">
+                    <barony settlement="castle_amman" deJure="lord_mamluk_6_1" />
+                </county>
+                <county settlement="town_palmyra" deJure="lord_mamluk_4_1">
+                    <barony settlement="castle_halabiye" deJure="lord_mamluk_4_1" />
+                </county>
+                <county settlement="town_aleppo" deJure="lord_mamluk_4_1">
+                    <barony settlement="castle_homs" deJure="lord_mamluk_1_1" />
+                </county>
+                <county settlement="town_raqqah" deJure="lord_mamluk_4_1">
+                    <barony settlement="castle_edessa" deJure="lord_mamluk_6_1" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_cs_clan_mamluk_1}cs_clan_mamluk_1" deJure="lord_mamluk_1_1">
+                <county settlement="town_alexandria" deJure="lord_mamluk_1_1" />
+                <county settlement="town_cairo" deJure="lord_mamluk_1_1" />
+                <county settlement="town_fayyum" deJure="lord_mamluk_1_1" />
+                <county settlement="town_asyut" deJure="lord_mamluk_1_1" />
+                <county settlement="town_luxor" deJure="lord_mamluk_1_1">
+                    <barony settlement="castle_labakha" deJure="lord_mamluk_5_1" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_mamluk_5}clan_mamluk_5" deJure="lord_mamluk_5_1">
+                <county settlement="town_medina" deJure="lord_mamluk_5_1">
+                    <barony settlement="castle_tabuk" deJure="lord_mamluk_5_1" />
+                </county>
+            </duchy>
+            <duchy name="{=duchy_clan_mamluk_6}clan_mamluk_6" deJure="lord_mamluk_6_1">
+                <county settlement="town_dumat" deJure="lord_mamluk_6_1">
+                    <barony settlement="castle_petra" deJure="lord_mamluk_5_1" />
+                    <barony settlement="castle_marid" deJure="lord_mamluk_5_1" />
+                </county>
+            </duchy>
+        </kingdom>
+        <kingdom faction="wales" fullName="{=!}Principality of Wales" government="Feudal"
+            succession="Hereditary" inheritance="Seniority" genderLaw="Agnatic"
+            deJure="Hero.lord_wales_1a">
+            <duchy name="{=duchy_clan_wales_1}clan_wales_1" deJure="lord_wales_1a">
+                <county settlement="town_pembrok" deJure="lord_wales_1a">
+                    <barony settlement="castle_harlech" deJure="lord_wales_1a" />
+                    <barony settlement="castle_abertawe" deJure="lord_wales_2a" />
+                    <barony settlement="castle_cardiff" deJure="lord_wales_1a" />
+                    <barony settlement="castle_conwy" deJure="lord_wales_2a" />
+                </county>
+            </duchy>
+        </kingdom>
+    </titles>
+</base>

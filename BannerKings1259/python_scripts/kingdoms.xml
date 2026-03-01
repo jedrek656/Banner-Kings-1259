@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <titles autoGenerate="false">
+    <kingdom faction="almohad_caliphate" fullName="{=!}Almohad Caliphate" government="Imperial"
+      succession="Hereditary" inheritance="Primogeniture" genderLaw="Agnatic"
+      deJure="Hero.lord_almohad_umar">
+    </kingdom>
+    <kingdom faction="aragon" fullName="{=!}Crown of Aragon" government="Feudal"
+      succession="FeudalElective" inheritance="Primogeniture" genderLaw="Agnatic"
+      deJure="Hero.lord_aragon_1_1">
+    </kingdom>
+    <kingdom faction="armenia" fullName="{=!}Kingdom of Cilicia" government="Feudal"
+      succession="Hereditary" inheritance="Primogeniture" genderLaw="Cognatic"
+      deJure="Hero.lord_armenia_1z2g">
+    </kingdom>
+    <kingdom faction="lithuania" fullName="{=!}Kingdom of Lithuania" government="Tribal"
+      succession="TribalElective" inheritance="Seniority" genderLaw="Agnatic"
+      deJure="Hero.lord_baltic_1a">
+    </kingdom>
+    <kingdom faction="bohemia" fullName="{=!}Kingdom of Bohemia" government="Feudal"
+      succession="FeudalElective" inheritance="Primogeniture" genderLaw="Agnatic"
+      deJure="Hero.lord_bohemia_1a">
+    </kingdom>
+    <kingdom faction="bosnia" fullName="{=!}Banate of Bosnia" government="Feudal"
+      succession="FeudalElective" inheritance="Seniority" genderLaw="Agnatic"
+      deJure="Hero.lord_bosnia_1a">
+    </kingdom>
+    <kingdom faction="brittany" fullName="{=!}Duchy of Brittany" government="Feudal"
+      succession="Hereditary" inheritance="Primogeniture" genderLaw="Agnatic"
+      deJure="Hero.lord_brittany_1a">
+    </kingdom>
+    <kingdom faction="bulgaria" fullName="{=!}Kingdom of Bulgaria" government="Imperial"
+      succession="Imperial" inheritance="Primogeniture" genderLaw="Agnatic"
+      deJure="Hero.lord_bulgaria_1a">
+    </kingdom>
+    <kingdom faction="castile" fullName="{=!}Crown of Castile" government="Feudal"
+      succession="Hereditary" inheritance="Primogeniture" genderLaw="Agnatic"
+      deJure="Hero.lord_castile_1">
+    </kingdom>
+    <kingdom faction="crusaderstates" fullName="{=!}Crusader States" government="Feudal"
+      succession="FeudalElective" inheritance="Primogeniture" genderLaw="Agnatic"
+      deJure="Hero.lord_crusaderstates_1_2">
+    </kingdom>
+    <kingdom faction="denmark" fullName="{=!}Kingdom of Denmark" government="Feudal"
+      succession="BattanianElective" inheritance="Primogeniture" genderLaw="Agnatic"
+      deJure="Hero.lord_denmark_1_3">
+    </kingdom>
+    <kingdom faction="england" fullName="{=!}Kingdom of England" government="Feudal"
+      succession="Hereditary" inheritance="Primogeniture" genderLaw="Agnatic"
+      deJure="Hero.lord_england_1">
+    </kingdom>
+    <kingdom faction="vlandia" fullName="{=!}Kingdom of France" government="Feudal"
+      succession="Hereditary" inheritance="Primogeniture" genderLaw="Agnatic" deJure="Hero.lord_4_1">
+    </kingdom>
+    <kingdom faction="battania" fullName="{=!}Gaelic Kingdoms" government="Tribal"
+      succession="TribalElective" inheritance="Seniority" genderLaw="Agnatic" deJure="Hero.lord_5_1">
+    </kingdom>
+    <kingdom faction="georgia" fullName="{=!}Kingdom of Georgia" government="Feudal"
+      succession="Hereditary" inheritance="Primogeniture" genderLaw="Cognatic"
+      deJure="Hero.lord_georgia_1a">
+    </kingdom>
+    <kingdom faction="holy" fullName="{=!}Holy Roman Empire" government="Feudal"
+      succession="BattanianElective" inheritance="Primogeniture" genderLaw="Agnatic"
+      deJure="Hero.lord_HRE_1">
+    </kingdom>
+    <kingdom faction="khuzait" fullName="{=!}Golden Horde" government="Tribal"
+      succession="TribalElective" inheritance="Seniority" genderLaw="Agnatic" deJure="Hero.lord_6_1">
+    </kingdom>
+    <kingdom faction="granada" fullName="{=!}Emirate of Granada" government="Imperial"
+      succession="Hereditary" inheritance="Primogeniture" genderLaw="Agnatic"
+      deJure="Hero.lord_granada_1_1">
+    </kingdom>
+    <kingdom faction="nicaea" fullName="{=!}Roman Empire of Nicaea" government="Imperial"
+      succession="Imperial" inheritance="Primogeniture" genderLaw="Cognatic"
+      deJure="Hero.lord_nicaea_1_1">
+    </kingdom>
+    <kingdom faction="hafsid" fullName="{=!}Hafsid Kingdom" government="Imperial"
+      succession="Hereditary" inheritance="Primogeniture" genderLaw="Agnatic"
+      deJure="Hero.lord_hafsid_1_1">
+    </kingdom>
+    <kingdom faction="galicia" fullName="{=!}Principality of Galicia-Volhynia" government="Feudal"
+      succession="FeudalElective" inheritance="Seniority" genderLaw="Agnatic"
+      deJure="Hero.lord_galicia_1a">
+    </kingdom>
+    <kingdom faction="kiev" fullName="{=!}Principality of Kiev" government="Feudal"
+      succession="Hereditary" inheritance="Seniority" genderLaw="Agnatic"
+      deJure="Hero.lord_kiev_1a">
+    </kingdom>
+    <kingdom faction="pereyaslavl" fullName="{=!}Principality of Pereyaslavl" government="Feudal"
+      succession="Hereditary" inheritance="Seniority" genderLaw="Agnatic"
+      deJure="Hero.lord_pereyaslavl_1a">
+    </kingdom>
+    <kingdom faction="hungary" fullName="{=!}Kingdom of Hungary" government="Feudal"
+      succession="Hereditary" inheritance="Primogeniture" genderLaw="Agnatic"
+      deJure="Hero.lord_hungary_1_1">
+    </kingdom>
+    <kingdom faction="ilkhanate" fullName="{=!}Ilkhanate" government="Imperial"
+      succession="TribalElective" inheritance="Seniority" genderLaw="Agnatic"
+      deJure="Hero.lord_ilkhanate_1_1">
+    </kingdom>
+    <kingdom faction="empire_w" fullName="{=!}Republic of Genoa" government="Republic"
+      succession="AseraiElective" inheritance="Primogeniture" genderLaw="Agnatic" deJure="Hero.lord_1_7">
+    </kingdom>
+    <kingdom faction="milan" fullName="{=!}Lordship of Milan" government="Feudal"
+      succession="FeudalElective" inheritance="Primogeniture" genderLaw="Agnatic"
+      deJure="Hero.lord_milan_1a">
+    </kingdom>
+    <kingdom faction="papal" fullName="{=!}Papal States" government="Imperial" succession="TheocraticElective"
+      inheritance="Primogeniture" genderLaw="Agnatic" deJure="Hero.lord_papal_1a">
+    </kingdom>
+    <kingdom faction="pisa" fullName="{=!}Republic of Pisa" government="Republic"
+      succession="AseraiElective" inheritance="Primogeniture" genderLaw="Agnatic"
+      deJure="Hero.lord_pisa_1a">
+    </kingdom>
+    <kingdom faction="empire_s" fullName="{=!}Kingdom of Sicily" government="Feudal"
+      succession="FeudalElective" inheritance="Primogeniture" genderLaw="Agnatic"
+      deJure="Hero.lord_1_14">
+    </kingdom>
+    <kingdom faction="empire" fullName="{=!}Republic of Venice" government="Republic"
+      succession="AseraiElective" inheritance="Primogeniture" genderLaw="Agnatic" deJure="Hero.lord_1_1">
+    </kingdom>
+    <kingdom faction="verona" fullName="{=!}Lordship of Verona" government="Feudal"
+      succession="FeudalElective" inheritance="Primogeniture" genderLaw="Agnatic"
+      deJure="Hero.lord_verona_1a">
+    </kingdom>
+    <kingdom faction="latinempire" fullName="{=!}Latin Empire of Constantinople" government="Feudal"
+      succession="Hereditary" inheritance="Primogeniture" genderLaw="Cognatic"
+      deJure="Hero.lord_latin_1_1">
+    </kingdom>
+    <kingdom faction="aserai" fullName="{=!}Marinid Sultanate" government="Imperial"
+      succession="Hereditary" inheritance="Primogeniture" genderLaw="Agnatic" deJure="Hero.lord_3_1">
+    </kingdom>
+    <kingdom faction="murcia" fullName="{=!}Taifa of Murcia" government="Imperial"
+      succession="Hereditary" inheritance="Primogeniture" genderLaw="Agnatic"
+      deJure="Hero.lord_murcia_1a">
+    </kingdom>
+    <kingdom faction="navarre" fullName="{=!}Kingdom of Navarre" government="Feudal"
+      succession="Hereditary" inheritance="Primogeniture" genderLaw="Agnatic"
+      deJure="Hero.lord_navarre_1">
+    </kingdom>
+    <kingdom faction="norway" fullName="{=!}Kingdom of Norway" government="Feudal"
+      succession="Hereditary" inheritance="Primogeniture" genderLaw="Agnatic"
+      deJure="Hero.lord_norway_1_1">
+    </kingdom>
+    <kingdom faction="poland" fullName="{=!}Polish Principalities" government="Feudal"
+      succession="FeudalElective" inheritance="Primogeniture" genderLaw="Agnatic"
+      deJure="Hero.lord_poland_1">
+    </kingdom>
+    <kingdom faction="portugal" fullName="{=!}Kingdom of Portugal" government="Feudal"
+      succession="Hereditary" inheritance="Primogeniture" genderLaw="Agnatic"
+      deJure="Hero.lord_portugal_1_1">
+    </kingdom>
+    <kingdom faction="rum" fullName="{=!}Sultanate of Rum" government="Imperial"
+      succession="Imperial" inheritance="Primogeniture" genderLaw="Agnatic"
+      deJure="Hero.lord_rum_1_a">
+    </kingdom>
+    <kingdom faction="chernigov" fullName="{=!}Principality of Chernigov" government="Feudal"
+      succession="FeudalElective" inheritance="Primogeniture" genderLaw="Agnatic"
+      deJure="Hero.lord_chernigov_1a">
+    </kingdom>
+    <kingdom faction="murom" fullName="{=!}Principality of Murom-Pronsk" government="Feudal"
+      succession="Hereditary" inheritance="Seniority" genderLaw="Agnatic"
+      deJure="Hero.lord_murom_1a">
+    </kingdom>
+    <kingdom faction="rus" fullName="{=!}Republic of Novgorod" government="Feudal"
+      succession="Hereditary" inheritance="Seniority" genderLaw="Agnatic"
+      deJure="Hero.lord_rus_1a">
+    </kingdom>
+    <kingdom faction="polotsk" fullName="{=!}Principality of Polotsk" government="Feudal"
+      succession="Hereditary" inheritance="Seniority" genderLaw="Agnatic"
+      deJure="Hero.lord_polotsk_1a">
+    </kingdom>
+    <kingdom faction="smolensk" fullName="{=!}Principality of Smolensk" government="Feudal"
+      succession="Hereditary" inheritance="Seniority" genderLaw="Agnatic"
+      deJure="Hero.lord_smolensk_1a">
+    </kingdom>
+    <kingdom faction="turov" fullName="{=!}Principality of Turov" government="Feudal"
+      succession="Hereditary" inheritance="Seniority" genderLaw="Agnatic"
+      deJure="Hero.lord_turov_1a">
+    </kingdom>
+    <kingdom faction="tver" fullName="{=!}Principality of Tver" government="Feudal"
+      succession="Hereditary" inheritance="Seniority" genderLaw="Agnatic"
+      deJure="Hero.lord_tver_1a">
+    </kingdom>
+    <kingdom faction="vladimir" fullName="{=!}Principality of Vladimir-Suzdal" government="Feudal"
+      succession="Hereditary" inheritance="Seniority" genderLaw="Agnatic"
+      deJure="Hero.lord_vladimir_1a">
+    </kingdom>
+    <kingdom faction="scotland" fullName="{=!}Kingdom of Scotland" government="Feudal"
+      succession="Hereditary" inheritance="Seniority" genderLaw="Agnatic"
+      deJure="Hero.lord_scotland_1_2">
+    </kingdom>
+    <kingdom faction="serbia" fullName="{=!}Kingdom of Serbia" government="Feudal"
+      succession="Hereditary" inheritance="Primogeniture" genderLaw="Agnatic"
+      deJure="Hero.lord_serbia_1a">
+    </kingdom>
+    <kingdom faction="sturgia" fullName="{=!}Kingdom of Sweden" government="Feudal"
+      succession="BattanianElective" inheritance="Seniority" genderLaw="Agnatic" deJure="Hero.lord_2_7">
+    </kingdom>
+    <kingdom faction="teutonic" fullName="{=!}Teutonic Order" government="Imperial"
+      succession="TheocraticElective" inheritance="Seniority" genderLaw="Agnatic"
+      deJure="Hero.lord_teutonic_1a">
+    </kingdom>
+    <kingdom faction="tlemcen_algeria" fullName="{=!}Tlemcen Sultanate of Algeria"
+      government="Imperial" succession="Hereditary" inheritance="Primogeniture" genderLaw="Agnatic"
+      deJure="Hero.lord_zyani_yaghmurasen">
+    </kingdom>
+    <kingdom faction="mamluk" fullName="{=!}Mamluk Sultanate" government="Imperial"
+      succession="AseraiElective" inheritance="Seniority" genderLaw="Agnatic"
+      deJure="Hero.lord_mamluk_1_1">
+    </kingdom>
+    <kingdom faction="wales" fullName="{=!}Principality of Wales" government="Feudal"
+      succession="Hereditary" inheritance="Seniority" genderLaw="Agnatic"
+      deJure="Hero.lord_wales_1a">
+    </kingdom>
+  </titles>
+</base>

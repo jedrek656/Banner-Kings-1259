@@ -1,0 +1,4 @@
+bin/
+module_data/
+obj/
+*.csproj.user
