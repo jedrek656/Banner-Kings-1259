@@ -197,8 +197,12 @@ namespace BannerKings1259.Religions.Faiths
 
         public override bool IsHeroNaturalFaith(Hero hero)
         {
-            //return !(hero.Occupation == Occupation.Artisan || hero.Occupation == Occupation.GoodsTrader);
-            return this.IsCultureNaturalFaith(hero.Culture);
+            if (hero.Occupation == Occupation.Lord) return this.IsCultureNaturalFaith(hero.Culture);
+            if(this.IsCultureNaturalFaith(hero.Culture))
+            {
+                return MBRandom.RandomFloat > 0.2f;
+            }
+            return false;
         }
     }
 }
